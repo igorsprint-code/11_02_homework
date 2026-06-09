@@ -21,6 +21,8 @@
 
 ### Решение
 
+![screen](screenshots/balancer.png)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
