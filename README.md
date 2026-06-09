@@ -21,7 +21,7 @@
 
 ### Решение
 
-![screen](screenshots/balancer.png)
+![screen](screenshots/mem_status.jpg)
 
 ---
 
