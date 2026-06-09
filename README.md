@@ -42,9 +42,9 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-![screen](screenshots/redis.jpg)
+
 
 ### Решение
-
+![screen](screenshots/redis.jpg)
 
 
